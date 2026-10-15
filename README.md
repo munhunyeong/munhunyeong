@@ -6,7 +6,7 @@
  <h3 style="border-bottom: none;">Tech Stack</h3>
   <br/>
   
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,idea,aws,github&theme=light&perline=3" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,idea,aws,github&theme=light&perline=3" />
 
 </div>
 
